@@ -1,0 +1,21 @@
+{
+	"name": "heat_control",
+	"version": "1.0.0",
+	"description": "A small application to control the heater at home. Like a smart home application.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Rico Hoffmann",
+	"license": "ISC",
+	"volumio_info": {
+		"prettyName": "heat_control",
+		"icon": "fa-lightbulb-o",
+		"plugin_type": "miscellanea"
+	},
+	"dependencies": {
+		"fs-extra": "^0.28.0",
+		"kew": "^0.7.0",
+		"v-conf": "^1.4.0"
+	}
+}
