@@ -368,6 +368,24 @@
 						}
 					],
 					"updated": "15-9-2018"
+				},
+				{
+					"prettyName": "heatCtrl",
+					"icon": "fa-lightbulb-o",
+					"name": "heatctrl",
+					"version": "1.0.0",
+					"url": "http://volumio.github.io/volumio-plugins/plugins/volumio/armhf/miscellanea/heatctrl/heatctrl.zip",
+					"license": "ISC",
+					"description": "Simple control unit for smart heaters.",
+					"details": "Control unit for smart heaters.",
+					"author": "Rico Hoffmann",
+					"screenshots": [
+						{
+							"image": "",
+							"thumb": ""
+						}
+					],
+					"updated": "16-9-2018"
 				}
 			]
 		},
